@@ -10,9 +10,13 @@ class Dashing.Alert extends Dashing.Widget
 
 
   @accessor 'isTooHigh', ->
-    @get('value') > 300
+    @get('value') > 3.2
     
-
+  @accessor 'isMedium', ->
+    @get('value') > 2 && @get('value') < 3.2
+  
+  @accessor 'isLow', ->
+    @get('value') < 2
   
   @accessor 'value', Dashing.AnimatedValue
 
