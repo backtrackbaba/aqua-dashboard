@@ -1,0 +1,14 @@
+{
+  "name": "aqua-therapy",
+  "version": "1.0.0",
+  "description": "Desktop Applicarion for Aqua Therapy",
+  "repository": "https://github.com/backtrackbaba/aqua-dashboard",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron app.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.4.12"
+  }
+}
