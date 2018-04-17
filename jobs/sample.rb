@@ -1,7 +1,5 @@
 current_valuation = 0
 current_karma = 0
-uv = "OFF"
-ozone = "OFF" 
 
 SCHEDULER.every '2s' do
   last_valuation = current_valuation
@@ -9,13 +7,6 @@ SCHEDULER.every '2s' do
   current_valuation = (rand(0.6000...0.8000))
   current_karma     = rand(200000)
 
-  if (uv ==  "OFF")
-    send_event('uv', {text: "ON"})
-    uv = "ON"
-  else
-    send_event('uv', {text: "OFF"})
-    uv = "OFF"
-  
   send_event('valuation', { current: current_valuation.round(2), last: last_valuation })
   send_event('karma', { current: current_karma, last: last_karma })
   send_event('synergy',   { value: (rand(0.20...0.50)*100).round(1) })

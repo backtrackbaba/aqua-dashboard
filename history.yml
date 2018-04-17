@@ -1,17 +1,18 @@
 ---
-valuation: "data: {\"current\":0.77,\"last\":0.647795396204738,\"id\":\"valuation\",\"updatedAt\":1522562403222}\n\n"
-karma: "data: {\"current\":66559,\"last\":4499,\"id\":\"karma\",\"updatedAt\":1522562403222}\n\n"
-synergy: "data: {\"value\":28.1,\"id\":\"synergy\",\"updatedAt\":1522562403222}\n\n"
-buzzwords: "data: {\"items\":[{\"label\":\"Web 2.0\",\"value\":7},{\"label\":\"Leverage\",\"value\":12},{\"label\":\"Synergy\",\"value\":6},{\"label\":\"Turn-key\",\"value\":7},{\"label\":\"Paradigm
-  shift\",\"value\":6},{\"label\":\"Enterprise\",\"value\":11},{\"label\":\"Exit strategy\",\"value\":12},{\"label\":\"Pivoting\",\"value\":4},{\"label\":\"Streamlininess\",\"value\":4}],\"id\":\"buzzwords\",\"updatedAt\":1522562403223}\n\n"
-convergence: "data: {\"points\":[{\"x\":69,\"y\":12},{\"x\":70,\"y\":47},{\"x\":71,\"y\":9},{\"x\":72,\"y\":12},{\"x\":73,\"y\":3},{\"x\":74,\"y\":4},{\"x\":75,\"y\":8},{\"x\":76,\"y\":35},{\"x\":77,\"y\":18},{\"x\":78,\"y\":11}],\"id\":\"convergence\",\"updatedAt\":1522562402018}\n\n"
+valuation: "data: {\"current\":0.75,\"last\":0.6686698102026728,\"id\":\"valuation\",\"updatedAt\":1523993769610}\n\n"
+karma: "data: {\"current\":52346,\"last\":104149,\"id\":\"karma\",\"updatedAt\":1523993769610}\n\n"
+synergy: "data: {\"value\":39.5,\"id\":\"synergy\",\"updatedAt\":1523993769610}\n\n"
+buzzwords: "data: {\"items\":[{\"label\":\"Enterprise\",\"value\":20},{\"label\":\"Exit
+  strategy\",\"value\":17},{\"label\":\"Synergy\",\"value\":11},{\"label\":\"Web 2.0\",\"value\":3},{\"label\":\"Pivoting\",\"value\":26},{\"label\":\"Streamlininess\",\"value\":2},{\"label\":\"Paradigm
+  shift\",\"value\":12},{\"label\":\"Turn-key\",\"value\":20},{\"label\":\"Leverage\",\"value\":6}],\"id\":\"buzzwords\",\"updatedAt\":1523993769611}\n\n"
+convergence: "data: {\"points\":[{\"x\":1497,\"y\":1},{\"x\":1498,\"y\":0},{\"x\":1499,\"y\":46},{\"x\":1500,\"y\":47},{\"x\":1501,\"y\":23},{\"x\":1502,\"y\":2},{\"x\":1503,\"y\":40},{\"x\":1504,\"y\":10},{\"x\":1505,\"y\":47},{\"x\":1506,\"y\":3}],\"id\":\"convergence\",\"updatedAt\":1523993768406}\n\n"
 response_time: "data: {\"value\":160,\"id\":\"response_time\",\"updatedAt\":1522341832893}\n\n"
 response_time1: "data: {\"value\":262,\"id\":\"response_time1\",\"updatedAt\":1522515050947}\n\n"
 response_time2: "data: {\"value\":108,\"id\":\"response_time2\",\"updatedAt\":1522515050947}\n\n"
-weather: "data: {\"temp\":\"32 &deg;C\",\"condition\":\"Smoke\",\"title\":\"Mumbai
-  Weather\",\"color\":\"#FF3300\",\"climacon\":\"sun\",\"id\":\"weather\",\"updatedAt\":1522562266245}\n\n"
-ph: "data: {\"value\":4,\"id\":\"ph\",\"updatedAt\":1522562395946}\n\n"
-chlorine: "data: {\"value\":3.92,\"id\":\"chlorine\",\"updatedAt\":1522562403222}\n\n"
+weather: "data: {\"temp\":\"30 &deg;C\",\"condition\":\"Haze\",\"title\":\"Mumbai
+  Weather\",\"color\":\"#FF3300\",\"climacon\":\"lightning\",\"id\":\"weather\",\"updatedAt\":1523993176956}\n\n"
+ph: "data: {\"value\":2,\"id\":\"ph\",\"updatedAt\":1523993766281}\n\n"
+chlorine: "data: {\"value\":1.76,\"id\":\"chlorine\",\"updatedAt\":1523993769611}\n\n"
 text: "data: {\"text\":\"ON\",\"id\":\"text\",\"updatedAt\":1522562150821}\n\n"
 uv: "data: {\"text\":\"ON\",\"id\":\"uv\",\"updatedAt\":1522562313500}\n\n"
 ozone: "data: {\"text\":\"ON\",\"id\":\"ozone\",\"updatedAt\":1522562326597}\n\n"
