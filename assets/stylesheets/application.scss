@@ -5,7 +5,7 @@
 // ----------------------------------------------------------------------------
 // Sass declarations
 // ----------------------------------------------------------------------------
-$background-color: #222;
+$background-color: #1d3541; //222
 $text-color: #fff;
 
 $background-danger-color-1: #e82711;
@@ -127,6 +127,7 @@ h3 {
   font-size: 275px;
   text-align: center;
   margin-top: 60px;
+  color: #000
 }
 
 .list-nostyle {
@@ -260,3 +261,20 @@ h3 {
   background-color: #fff
 }
 
+.clock-parth{
+  color: #fff
+}
+
+.bottom-text{
+  text-align: center;
+}
+
+.heart{
+  color:red;
+}
+
+.heart-red{
+  background-color: red;
+}
+
+//#34a853
