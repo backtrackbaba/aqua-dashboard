@@ -9,8 +9,8 @@ convergence: "data: {\"points\":[{\"x\":120,\"y\":8},{\"x\":121,\"y\":29},{\"x\"
 response_time: "data: {\"value\":160,\"id\":\"response_time\",\"updatedAt\":1522341832893}\n\n"
 response_time1: "data: {\"value\":262,\"id\":\"response_time1\",\"updatedAt\":1522515050947}\n\n"
 response_time2: "data: {\"value\":108,\"id\":\"response_time2\",\"updatedAt\":1522515050947}\n\n"
-weather: "data: {\"temp\":\"34 &deg;C\",\"condition\":\"Smoke\",\"title\":\"Mumbai
-  Weather\",\"color\":\"#FF3300\",\"climacon\":\"sun\",\"id\":\"weather\",\"updatedAt\":1524043234514}\n\n"
+weather: "data: {\"temp\":\"36 &deg;C\",\"condition\":\"Clear\",\"title\":\"Mumbai
+  Weather\",\"color\":\"#FF3300\",\"climacon\":\"sun\",\"id\":\"weather\",\"updatedAt\":1524388636042}\n\n"
 ph: "data: {\"value\":2,\"id\":\"ph\",\"updatedAt\":1523996894665}\n\n"
 chlorine: "data: {\"value\":0,\"id\":\"chlorine\",\"updatedAt\":1524009584469}\n\n"
 text: "data: {\"text\":\"ON\",\"id\":\"text\",\"updatedAt\":1522562150821}\n\n"
