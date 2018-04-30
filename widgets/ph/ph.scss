@@ -1,0 +1,97 @@
+// ----------------------------------------------------------------------------
+// Sass declarations
+// ----------------------------------------------------------------------------
+$background-color:  #47bbb3;
+$value-color:       #fff;
+
+$title-color:       rgba(255, 255, 255, 0.7);
+$moreinfo-color:    rgba(255, 255, 255, 0.7);
+
+// ----------------------------------------------------------------------------
+// Widget-number styles
+// ----------------------------------------------------------------------------
+.widget-ph {
+
+  background-color: $background-color;
+
+  .title {
+    color: $title-color;
+  }
+
+  .value {
+    color: $value-color;
+  }
+
+  .change-rate {
+    font-weight: 500;
+    font-size: 30px;
+    color: $value-color;
+  }
+
+  .more-info {
+    color: $moreinfo-color;
+  }
+
+  .updated-at {
+    color: rgba(0, 0, 0, 0.3);
+  }
+
+}
+
+.one {
+  background: #f26724;
+}
+
+.two {
+  background: #f8c611;
+}
+
+.three {
+  background: #f5ed1c;
+}
+
+.four {
+  background: #b5d333;
+}
+
+.five {
+  background: #84c341;
+}
+
+.six {
+  background: #4db749;
+}
+
+.seven {
+  background: #33a94b;
+}
+
+.eight {
+  background: #22b46b;
+}
+
+.nine {
+  background: #0ab8b6;
+}
+
+.ten {
+  background: #4690cd;
+}
+
+.eleven {
+  background: #3853a4;
+}
+
+.twelve {
+  background: #5a51a2;
+}
+
+.thirteen {
+  background: #63459d;
+}
+
+.fourteen {
+  background: #462c83;
+}
+
+

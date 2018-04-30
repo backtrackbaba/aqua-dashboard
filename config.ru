@@ -1,7 +1,7 @@
 require 'dashing'
 
 configure do
-  set :auth_token, '1234567890'
+  set :auth_token, 'YOUR_AUTH_TOKEN'
 
   # See http://www.sinatrarb.com/intro.html > Available Template Languages on
   # how to add additional template languages.
