@@ -1,3 +1,4 @@
+=begin
 current_valuation = 0
 current_karma = 0
 random_ph = 0
@@ -24,4 +25,5 @@ SCHEDULER.every '2s' do
   #send_event('valuation', { current: current_valuation.round(2), last: last_valuation })
   #send_event('karma', { current: current_karma, last: last_karma })
   #send_event('synergy',   { value: (rand(0.20...0.50)*100).round(1) })
-end
+=end
+

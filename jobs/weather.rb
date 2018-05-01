@@ -1,3 +1,4 @@
+=begin
 require 'net/http'
 
 # you can find CITY_ID here http://bulk.openweathermap.org/sample/city.list.json.gz
@@ -66,3 +67,5 @@ def climacon_class(weather_code)
     'sun'
   end
 end
+'''
+=end

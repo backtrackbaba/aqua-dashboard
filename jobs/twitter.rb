@@ -1,3 +1,4 @@
+=begin
 require 'twitter'
 
 
@@ -11,7 +12,7 @@ twitter = Twitter::REST::Client.new do |config|
 end
 
 search_term = URI::encode('#todayilearned')
-
+'''
 SCHEDULER.every '10m', :first_in => 0 do |job|
   begin
     tweets = twitter.search("#{search_term}")
@@ -26,3 +27,6 @@ SCHEDULER.every '10m', :first_in => 0 do |job|
     puts "\e[33mFor the twitter widget to work, you need to put in your twitter API keys in the jobs/twitter.rb file.\e[0m"
   end
 end
+
+
+=end
