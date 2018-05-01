@@ -65,7 +65,7 @@ class Dashing.Ph extends Dashing.Widget
     @accessor 'is14', ->
       @get('current') == 14
 
-    @accessor 'value', Dashing.AnimatedValue
+  @accessor 'value', Dashing.AnimatedValue
 
 
 #data-addclass-one="is1"

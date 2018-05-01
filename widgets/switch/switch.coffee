@@ -8,4 +8,8 @@ class Dashing.Switch extends Dashing.Widget
     # You can access the html node of this widget with `@node`
     # Example: $(@node).fadeOut().fadeIn() will make the node flash each time data comes in.
 
-    
+  @accessor 'isOn', ->
+    @get('status') == "ON"
+
+  @accessor 'isOff', ->
+    @get('status') == "OFF"
