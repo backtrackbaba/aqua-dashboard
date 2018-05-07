@@ -16,6 +16,9 @@ $moreinfo-color:    rgba(255, 255, 255, 0.7);
 
     .title {
       color: $title-color;
+      font-size: 40px;
+      font-weight: bold;
+      color: #fff;
     }
   
     .more-info {
@@ -28,7 +31,7 @@ $moreinfo-color:    rgba(255, 255, 255, 0.7);
   
   
     &.large h3 {
-      font-size: 65px;
+      font-size: 144px;
     }
   }
 
