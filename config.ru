@@ -6,7 +6,7 @@ configure do
   # See http://www.sinatrarb.com/intro.html > Available Template Languages on
   # how to add additional template languages.
   set :template_languages, %i[html erb]
-
+  set :default_dashboard, 'ops'
   helpers do
     def protected!
       # Put any authentication code you want in here.
