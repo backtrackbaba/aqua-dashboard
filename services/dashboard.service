@@ -1,0 +1,13 @@
+[Unit]
+Description=Dashboard Application
+
+[Service]
+Type=simple
+
+User=pi
+Group=pi
+
+ExecStart=/bin/bash /opt/projects/aqua-dashboard/start-dash.sh
+
+[Install]
+WantedBy=multi-user.target
